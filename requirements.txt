@@ -1,0 +1,9 @@
+streamlit==1.20.0
+rembg==2.0.30
+scikit-image==0.19.3
+scikit-learn==1.2.2
+numpy==1.23.5
+pandas==1.5.3
+opencv-python-headless==4.6.0.66
+
+
